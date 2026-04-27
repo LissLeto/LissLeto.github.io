@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-这是一段介绍~~
+这是咱们的一段简介~~
 
 Our research interests include **image signal processing** (*ISP*), **low-light image enhancement** (*LLIE*), **deep learning** and **computer vision**. We have published more than 40 papers at the top international AI\CV conferences\Journals <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 我们的研究兴趣包括但不限于**图像信号处理**，**暗光增强**，**深度学习**和**计算机视觉**。目前已经在相关领域顶级会议（*ICCV AAAI IJCAI*等）or期刊（*T-IP T-SP T-CSVT*等）发表逾**40**篇工作~
