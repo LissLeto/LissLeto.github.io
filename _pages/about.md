@@ -23,11 +23,11 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
   
   我们的研究兴趣包括但不限于**图像信号处理**，**暗光增强**，**深度学习**和**计算机视觉**。目前已经在相关领域顶级会议（*ICCV AAAI IJCAI*等）或期刊（*T-IP T-SP T-CSVT*等）发表逾**40**篇工作~  
 
-[导师主页~](https://teacher.bupt.edu.cn/kangxuejing)
+[👩‍🏫导师主页~](https://teacher.bupt.edu.cn/kangxuejing)
 
-[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/index.htm)  
+[🖥️计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/index.htm)  
 
-[北京邮电大学](https://www.bupt.edu.cn/)  
+[🏫北京邮电大学](https://www.bupt.edu.cn/)  
 
 
 # 🔥 News
