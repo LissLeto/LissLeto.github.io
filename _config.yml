@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxuan Zhang"
+  name             : "图像信号处理小分队"
   avatar           : "images/ISP.png"
-  bio              : "Beijing University of Posts and Telecommunications"
+  bio              : "Beijing University of Posts and Telecommunications (北京邮电大学)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
