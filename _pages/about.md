@@ -31,9 +31,9 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🤗 欢迎26级硕士研究生郭美汐加入课题组大家庭！！ 🎉🎉
-- *2025.09*: &nbsp;🤗 欢迎26级直博研究生王文轩加入课题组大家庭！！🎉🎉
-- *2025.06*: &nbsp;<span style="color:red">*ACCEPT!*</span>祝贺王美奥同学🎁🎁*ICCV 2025* 录用！！🎉🎉
+- *2026.04*: &nbsp;🎉🎉 欢迎26级硕士研究生郭美汐加入课题组大家庭！！ 
+- *2025.09*: &nbsp;🎉🎉 欢迎26级直博研究生王文轩加入课题组大家庭！！
+- *2025.06*: &nbsp;🎉🎉<span style="color:red">*ACCEPT!*</span> 祝贺王美奥同学：*ICCV 2025* 录用！！🎁🎁
 
 # 📝 Publications 
 
