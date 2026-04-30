@@ -41,14 +41,21 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/wma_iccv_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">ICCV 2025</div>
+      <img src="{{ "/images/wma_iccv_2025.png" | relative_url }}" alt="RetinexMCNet">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 
 [RetinexMCNet: A Memory Controller Dominated Network for Low-Light Video Enhancement Based on Retinex](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_RetinexMCNet_A_Memory_Controller_Dominated_Network_for_Low-Light_Video_Enhancement_ICCV_2025_paper.html)
 
 **Meiao Wang**, ***Xuejing Kang***\*, Yaxi Lu, Jie Xu
 
-
+  </div>
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 
