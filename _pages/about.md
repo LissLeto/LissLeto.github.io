@@ -30,10 +30,14 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 [🏫北京邮电大学](https://www.bupt.edu.cn/)  
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 欢迎26级硕士研究生郭美汐加入课题组大家庭！！ 
 - *2025.09*: &nbsp;🎉🎉 欢迎26级直博研究生王文轩加入课题组大家庭！！
 - *2025.06*: &nbsp;🎉🎉<span style="color:red">*ACCEPT!*</span> 祝贺王美奥同学：*ICCV 2025* 录用！！🎁🎁
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -51,17 +55,25 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<span class='anchor' id='people'></span>
 
 # 📖👩‍👧‍👦 People
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='internships'></span>
+
 # 💻 Internships
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+<span class='anchor' id='to-students'></span>
 
 # 💬 To students
 - 记于*2026.04.27*夜, 对同学们的一些话
