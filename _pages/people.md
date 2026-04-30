@@ -1,10 +1,13 @@
 ---
 permalink: /people/
-title: "People"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
-# People
+<span class='anchor' id='people'></span>
+
+# 📖👩‍👧‍👦 People
 
 ## Faculty
 

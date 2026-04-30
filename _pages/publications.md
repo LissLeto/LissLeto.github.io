@@ -1,10 +1,13 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
-# Publications
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='{{ "/images/wma_iccv_2025.png" | relative_url }}' alt="RetinexMCNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -18,6 +21,6 @@ author_profile: true
 </div>
 </div>
 
-## Selected Publications
+# Selected Publications
 
 - Add more publications here.

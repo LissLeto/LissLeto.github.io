@@ -1,10 +1,13 @@
 ---
 permalink: /admissions/
-title: "Admissions"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
-# Admissions
+<span class='anchor' id='admissions'></span>
+
+# 💬 Admissions
 
 We welcome motivated students interested in image signal processing, low-light image enhancement, deep learning, and computer vision.
 
