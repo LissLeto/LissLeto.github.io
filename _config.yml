@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ISP division"
-description              : "图像信号处理小分队"
+title                    : "AI4ISP division"
+description              : "AI4ISP小分队"
 repository               : "LissLeto/LissLeto.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "图像信号处理小分队"
+  name             : "AI4ISP小分队"
   avatar           : "images/ISP_3.png"
   bio              : "Beijing University of Posts and Telecommunications (北京邮电大学)"
   location         : "Beijing, China"
