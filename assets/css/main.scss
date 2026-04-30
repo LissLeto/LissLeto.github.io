@@ -43,7 +43,7 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
@@ -55,10 +55,19 @@
         display: flex;
         width: 100%;
         order: 2;
+
+        .paper-image-wrap {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+        }
+
         img {
+            display: block;
+            width: 100%;
+            height: auto;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
         }
     }
     
@@ -73,6 +82,10 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
+
+            .paper-image-wrap {
+                max-width: 100%;
+            }
         }
         
         .paper-box-text{
