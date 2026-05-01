@@ -17,11 +17,29 @@ author_profile: true
 
 ### Current Students
 
+#### 2026
 
-- Meiao Wang
 - Wenxuan Wang
 - Meixi Guo
 
+#### 2025
+
+- Add current students here.
+
+#### 2024
+
+- Add current students here.
+
 ### Graduated Students
 
-- Add alumni information here.
+#### 2024
+
+- Add graduated students here.
+
+#### 2023
+
+- Add graduated students here.
+
+#### 2022
+
+- Add graduated students here.
