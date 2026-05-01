@@ -39,7 +39,7 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -56,6 +56,8 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
 
   </div>
 </div>
+
+[View all publications]({{ "/publications/" | relative_url }})
 
 <span class='anchor' id='honors-and-awards'></span>
 

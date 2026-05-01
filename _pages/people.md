@@ -15,11 +15,13 @@ author_profile: true
 
 ## Students
 
+### Current Students
+
 
 - Meiao Wang
 - Wenxuan Wang
 - Meixi Guo
 
-## Alumni
+### Graduated Students
 
 - Add alumni information here.

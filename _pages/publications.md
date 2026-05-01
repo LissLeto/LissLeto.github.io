@@ -10,6 +10,8 @@ author_profile: true
 
 # 📝 Publications
 
+## All Publications
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
@@ -27,7 +29,5 @@ author_profile: true
 
   </div>
 </div>
-
-# Selected Publications
 
 - Add more publications here.
