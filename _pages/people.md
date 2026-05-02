@@ -24,7 +24,15 @@ author_profile: true
 
 #### 2025
 
-- Add current students here.
+<div class="people-grid">
+  <div class="person-card">
+    <img class="person-photo" src="{{ "/images/people/zhangyx.jpg" | relative_url }}" alt="张宇轩">
+    <div class="person-info">
+      <div class="person-name">张宇轩</div>
+      <div class="person-degree">博士研究生</div>
+    </div>
+  </div>
+</div>
 
 #### 2024
 
