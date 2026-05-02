@@ -123,9 +123,9 @@ h1:before, .anchor:before {
 
 .people-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
-    gap: 0.65rem;
-    margin: 0.5rem 0 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1.25rem;
+    margin: 1rem 0 1.5rem;
 }
 
 .person-card {
@@ -141,24 +141,24 @@ h1:before, .anchor:before {
 }
 
 .person-photo {
-    width: 48px;
-    height: 48px;
+    width: 96px;
+    height: 96px;
     border-radius: 50%;
     object-fit: cover;
-    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.18);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
 }
 
 .person-info {
-    margin-top: 0.35rem;
+    margin-top: 0.65rem;
 }
 
 .person-name {
     font-weight: 700;
-    font-size: 0.95em;
+    font-size: 1.05em;
 }
 
 .person-degree {
-    margin-top: 0.15rem;
+    margin-top: 0.2rem;
     color: #666;
-    font-size: 0.84em;
+    font-size: 0.95em;
 }
