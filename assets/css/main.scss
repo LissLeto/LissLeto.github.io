@@ -123,9 +123,9 @@ h1:before, .anchor:before {
 
 .people-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 1.25rem;
-    margin: 1rem 0 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 1rem;
+    margin: 0.75rem 0 1.25rem;
 }
 
 .person-card {
@@ -136,15 +136,15 @@ h1:before, .anchor:before {
 }
 
 .person-photo {
-    width: 120px;
-    height: 120px;
+    width: 88px;
+    height: 88px;
     border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
 }
 
 .person-info {
-    margin-top: 0.75rem;
+    margin-top: 0.5rem;
 }
 
 .person-name {
