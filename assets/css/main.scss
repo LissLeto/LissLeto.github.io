@@ -135,6 +135,11 @@ h1:before, .anchor:before {
     text-align: center;
 }
 
+.person-photo-link {
+    display: inline-block;
+    line-height: 0;
+}
+
 .person-photo {
     width: 88px;
     height: 88px;
