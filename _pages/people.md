@@ -31,7 +31,7 @@ author_profile: true
     </a>
     <div class="person-info">
       <div class="person-name">张宇轩</div>
-      <div class="person-degree">博士研究生</div>
+      <div class="person-degree">2025级博士研究生</div>
     </div>
   </div>
 </div>
