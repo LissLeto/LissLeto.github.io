@@ -7,7 +7,6 @@ author_profile: true
 
 <span class='anchor' id='publications'></span>
 
-
 # 📝 Publications
 
 ## All Publications
@@ -34,21 +33,23 @@ author_profile: true
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">MM 2024</div>
-      <img src="{{ "/images/publications/lcx_mm_2024.png" | relative_url }}" alt="MM 2024 paper">
+      <img src="{{ "/images/publications/lcx_mm_2024.png" | relative_url }}" alt="Thinking Temporal Automatic White Balance">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
 
-
 [Thinking Temporal Automatic White Balance: Datasets, Models and Benchmarks](https://dl.acm.org/doi/10.1145/3664647.3681410)
 
-**Chunxiao Li**, Shuyang Wang， Xuejing Kang, ***Anlong Ming***\*
+**Chunxiao Li**, Shuyang Wang, Xuejing Kang, ***Anlong Ming***\*
+
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
-      <div class="badge">MM 2024</div>
-      <img src="{{ "/images/publications/zp_tip_2023.png" | relative_url }}" alt="TIP 2023 paper">
+      <div class="badge">TIP 2023</div>
+      <img src="{{ "/images/publications/zp_tip_2023.png" | relative_url }}" alt="Vine Spread for Superpixel Segmentation">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
@@ -57,15 +58,17 @@ author_profile: true
 
 **Pei Zhou**, ***Xuejing Kang***\*, Anlong Ming
 
+  </div>
+</div>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
-      <div class="badge">MM 2024</div>
-      <img src="{{ "/images/publications/lcx_aaai_2023.png" | relative_url }}" alt="AAAI 2023 paper">
+      <div class="badge">AAAI 2023</div>
+      <img src="{{ "/images/publications/lcx_aaai_2023.png" | relative_url }}" alt="SWBNet">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
-
 
 [SWBNet: A Stable White Balance Network for sRGB Images](https://ojs.aaai.org/index.php/AAAI/article/view/25211)
 
