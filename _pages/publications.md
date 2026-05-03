@@ -42,7 +42,20 @@ author_profile: true
 
 [Thinking Temporal Automatic White Balance: Datasets, Models and Benchmarks](https://dl.acm.org/doi/10.1145/3664647.3681410)
 
-**Chunxiao Li**, Shuyang Wang， Xuejing Kang, ***Anlong Ming***
+**Chunxiao Li**, Shuyang Wang， Xuejing Kang, ***Anlong Ming***\*
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">MM 2024</div>
+      <img src="{{ "/images/publications/zp_tip_2023.png" | relative_url }}" alt="TIP 2023 paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[Vine Spread for Superpixel Segmentation](https://ieeexplore.ieee.org/document/10015675)
+
+**Pei Zhou**, ***Xuejing Kang***\*, Anlong Ming
 
   </div>
 </div>
