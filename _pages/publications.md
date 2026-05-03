@@ -49,7 +49,7 @@ author_profile: true
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">TIP 2023</div>
-      <img src="{{ "/images/publications/zp_tip_2023.png" | relative_url }}" alt="Vine Spread for Superpixel Segmentation">
+      <img src="{{ "/images/publications/zp_tip_2023.png" | relative_url }}" alt="VSSS">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
@@ -76,5 +76,54 @@ author_profile: true
 
   </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">IJCAI 2023</div>
+      <img src="{{ "/images/publications/dch_ijcai_2023.png" | relative_url }}" alt="ICDA">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation](https://www.ijcai.org/proceedings/2023/75)
+
+**Chenghao Dong**, ***Xuejing Kang***\*, Anlong Ming
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">IJCAI 2023</div>
+      <img src="{{ "/images/publications/lcx_ijcai_2023.png" | relative_url }}" alt="WBFlow">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[WBFlow: Few-shot white balance for sRGB images via reversible neural flows](https://www.ijcai.org/proceedings/2023/114)
+
+**Chunxiao Li**, Xuejing Kang, ***Anlong Ming***\*
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">TIP 2022</div>
+      <img src="{{ "/images/publications/zl_tip_2022.png" | relative_url }}" alt="ENCut">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[Explored Normalized Cut With Random Walk Refining Term for Image Segmentation](https://ieeexplore.ieee.org/document/9745758)
+
+**Lei Zhu**, ***Xuejing Kang***\*,Lizhu Ye, Anlong Ming
+
+  </div>
+</div>
+
 
 - Add more publications here.
