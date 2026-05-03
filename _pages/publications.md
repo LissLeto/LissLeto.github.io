@@ -57,6 +57,20 @@ author_profile: true
 
 **Pei Zhou**, ***Xuejing Kang***\*, Anlong Ming
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">MM 2024</div>
+      <img src="{{ "/images/publications/lcx_aaai_2023.png" | relative_url }}" alt="AAAI 2023 paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+
+[SWBNet: A Stable White Balance Network for sRGB Images](https://ojs.aaai.org/index.php/AAAI/article/view/25211)
+
+**Chunxiao Li**, Xuejing Kang, Zhifeng Zhang, ***Anlong Ming***\*
+
   </div>
 </div>
 
