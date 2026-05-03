@@ -45,7 +45,7 @@ Our research interests include **image signal processing** (*ISP*), **low-light 
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">ICCV 2025</div>
-      <img src="{{ "/images/wma_iccv_2025.png" | relative_url }}" alt="RetinexMCNet">
+      <img src="{{ "/images/publications/wma_iccv_2025.png" | relative_url }}" alt="RetinexMCNet">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">

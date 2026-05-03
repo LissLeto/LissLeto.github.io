@@ -16,7 +16,7 @@ author_profile: true
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">ICCV 2025</div>
-      <img src="{{ "/images/wma_iccv_2025.png" | relative_url }}" alt="RetinexMCNet">
+      <img src="{{ "/images/publications/wma_iccv_2025.png" | relative_url }}" alt="RetinexMCNet">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
@@ -26,6 +26,23 @@ author_profile: true
 **Meiao Wang**, ***Xuejing Kang***\*, Yaxi Lu, Jie Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">MM 2024</div>
+      <img src="{{ "/images/publications/lcx_mm_2024.png" | relative_url }}" alt="MM 2024 paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+
+[Thinking Temporal Automatic White Balance: Datasets, Models and Benchmarks](https://dl.acm.org/doi/10.1145/3664647.3681410)
+
+**Chunxiao Li**, Shuyang Wang， Xuejing Kang, ***Anlong Ming***
 
   </div>
 </div>
