@@ -7,7 +7,7 @@ author_profile: true
 
 <span class='anchor' id='people'></span>
 
-# 📖👩‍👧‍👦 People
+# 📖 People
 
 ## Faculty
 
@@ -19,8 +19,31 @@ author_profile: true
 
 #### 2026
 
-- Wenxuan Wang
-- Meixi Guo
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">王文轩</div>
+      <div class="person-degree">2026级博士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">郭美汐</div>
+      <div class="person-degree">2026级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">刘硕</div>
+      <div class="person-degree">2026级硕士研究生</div>
+    </div>
+  </div>
+</div>
 
 #### 2025
 
@@ -31,24 +54,68 @@ author_profile: true
     </a>
     <div class="person-info">
       <div class="person-name">张宇轩</div>
-      <div class="person-degree">2025级博士研究生</div>
+      <div class="person-degree">2025级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">朱明宇</div>
+      <div class="person-degree">2025级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">杨淇显</div>
+      <div class="person-degree">2025级硕士研究生</div>
     </div>
   </div>
 </div>
 
 #### 2024
 
-- Add current students here.
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">兰俊飞</div>
+      <div class="person-degree">2024级硕士研究生</div>
+    </div>
+  </div>
 
-### Graduated Students
-
-#### 2024
-
-- Add graduated students here.
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">耿许可</div>
+      <div class="person-degree">2024级硕士研究生</div>
+    </div>
+  </div>
+</div>
 
 #### 2023
 
-- Add graduated students here.
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">王者</div>
+      <div class="person-degree">2023级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">王美奥</div>
+      <div class="person-degree">2023级硕士研究生</div>
+    </div>
+  </div>
+</div>
+
+### Graduated Students
 
 #### 2022
 
