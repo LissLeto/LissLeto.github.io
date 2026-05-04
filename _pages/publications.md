@@ -33,6 +33,22 @@ author_profile: true
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">MM 2024</div>
+      <img src="{{ "/images/publications/ssk_neurocomputing_2025.png" | relative_url }}" alt="HDR-NFlow">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[HDR-NFlow: High dynamic range imaging with normalizing flow](https://www.sciencedirect.com/science/article/pii/S0925231225011841?via%3Dihub)
+
+**Shuaikang Shang**, ***Xuejing Kang***\*, Anlong Ming
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">MM 2024</div>
       <img src="{{ "/images/publications/lcx_mm_2024.png" | relative_url }}" alt="Thinking Temporal Automatic White Balance">
     </div>
   </div>
@@ -121,6 +137,38 @@ author_profile: true
 [Explored Normalized Cut With Random Walk Refining Term for Image Segmentation](https://ieeexplore.ieee.org/document/9745758)
 
 **Lei Zhu**, ***Xuejing Kang***\*,Lizhu Ye, Anlong Ming
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">TIP 2022</div>
+      <img src="{{ "/images/publications/tyx_aaai_2022.png" | relative_url }}" alt="TLCC">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[Transfer learning for color constancy via statistic perspective](https://ojs.aaai.org/index.php/AAAI/article/view/20135)
+
+**Yuxiang Tang**, Xuejing Kang, Chunxiao Li, Zhaowen Lin, ***Anlong Ming***\*
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">TIP 2022</div>
+      <img src="{{ "/images/publications/tyx_aaai_2022.png" | relative_url }}" alt="DALCC">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[Domain Adversarial Learning for Color Constancy](https://www.ijcai.org/proceedings/2022/236)
+
+**Zhifeng Zhang**, Xuejing Kang, ***Anlong Ming***\*
 
   </div>
 </div>
