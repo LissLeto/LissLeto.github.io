@@ -144,7 +144,7 @@ author_profile: true
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
-      <div class="badge">TIP 2022</div>
+      <div class="badge">AAAI 2022</div>
       <img src="{{ "/images/publications/tyx_aaai_2022.png" | relative_url }}" alt="TLCC">
     </div>
   </div>
@@ -160,8 +160,8 @@ author_profile: true
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
-      <div class="badge">TIP 2022</div>
-      <img src="{{ "/images/publications/tyx_aaai_2022.png" | relative_url }}" alt="DALCC">
+      <div class="badge">IJCAI 2022</div>
+      <img src="{{ "/images/publications/zzf_ijcai_2022.png" | relative_url }}" alt="DALCC">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
