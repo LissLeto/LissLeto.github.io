@@ -32,7 +32,7 @@ author_profile: true
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-image-wrap">
-      <div class="badge">MM 2024</div>
+      <div class="badge">Neurocomputing 2024</div>
       <img src="{{ "/images/publications/ssk_neurocomputing_2025.png" | relative_url }}" alt="HDR-NFlow">
     </div>
   </div>
@@ -169,6 +169,38 @@ author_profile: true
 [Domain Adversarial Learning for Color Constancy](https://www.ijcai.org/proceedings/2022/236)
 
 **Zhifeng Zhang**, Xuejing Kang, ***Anlong Ming***\*
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">Neurocomputing 2022</div>
+      <img src="{{ "/images/publications/lcp_neurocomputing_2021.png" | relative_url }}" alt="HDNet">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[HDNet: Hybrid distance network for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0925231221004185?via%3Dihub)
+
+**Chunpeng Li**, ***Xuejing Kang***\*, Lei Zhu, Lizhu Ye, Panhe Feng, Anlong Ming
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">ICCV 2021</div>
+      <img src="{{ "/images/publications/fph_iccv_2021.png" | relative_url }}" alt="MT-ORL">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[MT-ORL: Multi-task occlusion relationship learning](https://ieeexplore.ieee.org/document/9710704)
+
+**Panhe Feng**, Qi She, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, ***Xuejing Kang***\*, Anlong Ming
 
   </div>
 </div>
