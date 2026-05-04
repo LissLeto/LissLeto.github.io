@@ -206,4 +206,20 @@ author_profile: true
 </div>
 
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-image-wrap">
+      <div class="badge">TIP 2020</div>
+      <img src="{{ "/images/publications/zl_tip_2020.png" | relative_url }}" alt="DRW">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[Dynamic Random Walk for Superpixel Segmentation](https://ieeexplore.ieee.org/document/8967213)
+
+**Xuejing Kang**,  Lei Zhu, ***Anlong Ming***\*
+
+  </div>
+</div>
+
 - Add more publications here.
