@@ -113,7 +113,7 @@ author_profile: true
   <div class="paper-box-image">
     <div class="paper-image-wrap">
       <div class="badge">TIP 2022</div>
-      <img src="{{ "/images/publications/zl_tip_2022.png" | relative_url }}" alt="ENCut">
+      <img src="{{ "/images/publications/zl_tip_2022.png" | relative_url }}" alt="ENRWRT">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
