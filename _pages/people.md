@@ -20,6 +20,15 @@ author_profile: true
 #### 2026
 
 <div class="people-grid">
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">刘硕</div>
+      <div class="person-degree">2026级硕士研究生</div>
+    </div>
+  </div>
+
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
@@ -36,27 +45,13 @@ author_profile: true
     </div>
   </div>
 
-  <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
-    <div class="person-info">
-      <div class="person-name">刘硕</div>
-      <div class="person-degree">2026级硕士研究生</div>
-    </div>
-  </div>
+  
 </div>
 
 #### 2025
 
 <div class="people-grid">
-  <div class="person-card">
-    <a class="person-photo-link" href="{{ "/images/people/zhangyx.jpg" | relative_url }}" target="_blank" rel="noopener">
-      <img class="person-photo" src="{{ "/images/people/zhangyx.jpg" | relative_url }}" alt="张宇轩">
-    </a>
-    <div class="person-info">
-      <div class="person-name">张宇轩</div>
-      <div class="person-degree">2025级博士研究生</div>
-    </div>
-  </div>
+  
 
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
@@ -71,6 +66,16 @@ author_profile: true
     <div class="person-info">
       <div class="person-name">杨淇显</div>
       <div class="person-degree">2025级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/zhangyx.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/zhangyx.jpg" | relative_url }}" alt="张宇轩">
+    </a>
+    <div class="person-info">
+      <div class="person-name">张宇轩</div>
+      <div class="person-degree">2025级博士研究生</div>
     </div>
   </div>
 </div>
