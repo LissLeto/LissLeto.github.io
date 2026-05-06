@@ -11,7 +11,15 @@ author_profile: true
 
 ## Faculty
 
-- Xuejing Kang
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">康学净</div>
+      <div class="person-degree">副教授</div>
+    </div>
+  </div>
+</div>
 
 ## Students
 
@@ -123,5 +131,14 @@ author_profile: true
 ### Graduated Students
 
 #### 2022
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">朱家贤</div>
+      <div class="person-degree">2022级硕士研究生</div>
+    </div>
+  </div>
+</div>
 
 - Add graduated students here.
