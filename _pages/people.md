@@ -28,7 +28,6 @@ author_profile: true
 #### 2026级
 
 <div class="people-grid">
-
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
@@ -52,15 +51,11 @@ author_profile: true
       <div class="person-degree">2026级硕士研究生</div>
     </div>
   </div>
-
-  
 </div>
 
 #### 2025级
 
 <div class="people-grid">
-  
-
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
@@ -131,6 +126,7 @@ author_profile: true
 ### Graduated Students
 
 #### 2022级
+
 <div class="people-grid">
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
@@ -141,9 +137,28 @@ author_profile: true
   </div>
 </div>
 
-### 2021级
+#### 2021级
 
-### 2020级
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">董成豪</div>
+      <div class="person-degree">2021级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">衡德康</div>
+      <div class="person-degree">2021级硕士研究生</div>
+    </div>
+  </div>
+</div>
+
+#### 2020级
+
 <div class="people-grid">
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
@@ -160,27 +175,10 @@ author_profile: true
       <div class="person-degree">2020级硕士研究生</div>
     </div>
   </div>
-
-  <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
-    <div class="person-info">
-      <div class="person-name">董成豪</div>
-      <div class="person-degree">2020级硕士研究生</div>
-    </div>
-  </div>
-
-  <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
-    <div class="person-info">
-      <div class="person-name">衡德康</div>
-      <div class="person-degree">2020级硕士研究生</div>
-    </div>
-  </div>
-
-  
 </div>
 
-### 2019级
+#### 2019级
+
 <div class="people-grid">
   <div class="person-card">
     <a class="person-photo-link" href="{{ "/images/people/lichunxiao.png" | relative_url }}" target="_blank" rel="noopener">
@@ -192,4 +190,3 @@ author_profile: true
     </div>
   </div>
 </div>
-- Add graduated students here.
