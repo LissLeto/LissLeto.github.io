@@ -141,4 +141,16 @@ author_profile: true
   </div>
 </div>
 
+### 2019
+<div class="people-grid">
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/lichunxiao.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/lichunxiao.jpg" | relative_url }}" alt="李春晓">
+    </a>
+    <div class="person-info">
+      <div class="person-name">李春晓</div>
+      <div class="person-degree">2019级博士研究生</div>
+    </div>
+  </div>
+</div>
 - Add graduated students here.
