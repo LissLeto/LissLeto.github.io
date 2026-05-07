@@ -144,8 +144,8 @@ author_profile: true
 ### 2019
 <div class="people-grid">
   <div class="person-card">
-    <a class="person-photo-link" href="{{ "/images/people/lichunxiao.jpg" | relative_url }}" target="_blank" rel="noopener">
-      <img class="person-photo" src="{{ "/images/people/lichunxiao.jpg" | relative_url }}" alt="李春晓">
+    <a class="person-photo-link" href="{{ "/images/people/lichunxiao.png" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/lichunxiao.png" | relative_url }}" alt="李春晓">
     </a>
     <div class="person-info">
       <div class="person-name">李春晓</div>
