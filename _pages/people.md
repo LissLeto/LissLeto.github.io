@@ -144,6 +144,41 @@ author_profile: true
 ### 2021级
 
 ### 2020级
+<div class="people-grid">
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">周沛</div>
+      <div class="person-degree">2020级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">张志峰</div>
+      <div class="person-degree">2020级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">董成豪</div>
+      <div class="person-degree">2020级硕士研究生</div>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <div class="person-info">
+      <div class="person-name">衡德康</div>
+      <div class="person-degree">2020级硕士研究生</div>
+    </div>
+  </div>
+
+  
+</div>
 
 ### 2019级
 <div class="people-grid">
