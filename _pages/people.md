@@ -25,7 +25,7 @@ author_profile: true
 
 ### Current Students
 
-#### 2026
+#### 2026级
 
 <div class="people-grid">
 
@@ -56,7 +56,7 @@ author_profile: true
   
 </div>
 
-#### 2025
+#### 2025级
 
 <div class="people-grid">
   
@@ -88,7 +88,7 @@ author_profile: true
   </div>
 </div>
 
-#### 2024
+#### 2024级
 
 <div class="people-grid">
   <div class="person-card">
@@ -108,7 +108,7 @@ author_profile: true
   </div>
 </div>
 
-#### 2023
+#### 2023级
 
 <div class="people-grid">
   <div class="person-card">
@@ -130,7 +130,7 @@ author_profile: true
 
 ### Graduated Students
 
-#### 2022
+#### 2022级
 <div class="people-grid">
   <div class="person-card">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
@@ -141,7 +141,11 @@ author_profile: true
   </div>
 </div>
 
-### 2019
+### 2021级
+
+### 2020级
+
+### 2019级
 <div class="people-grid">
   <div class="person-card">
     <a class="person-photo-link" href="{{ "/images/people/lichunxiao.png" | relative_url }}" target="_blank" rel="noopener">
