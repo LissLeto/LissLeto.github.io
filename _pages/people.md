@@ -29,7 +29,9 @@ author_profile: true
 
 <div class="people-grid">
   <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <a class="person-photo-link" href="{{ "/images/people/liushuo.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/liushuo.jpg" | relative_url }}" alt="刘硕">
+    </a>
     <div class="person-info">
       <div class="person-name">刘硕</div>
       <div class="person-degree">2026级硕士研究生</div>
@@ -97,7 +99,9 @@ author_profile: true
   </div>
 
   <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+        <a class="person-photo-link" href="{{ "/images/people/gengxuke.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/gengxuke.jpg" | relative_url }}" alt="耿许可">
+    </a>
     <div class="person-info">
       <div class="person-name">耿许可</div>
       <div class="person-degree">2024级硕士研究生</div>
