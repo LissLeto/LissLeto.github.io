@@ -59,7 +59,9 @@ author_profile: true
 
 <div class="people-grid">
   <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <a class="person-photo-link" href="{{ "/images/people/zhumingyu.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/zhumingyu.jpg" | relative_url }}" alt="朱明宇">
+    </a>
     <div class="person-info">
       <div class="person-name">朱明宇</div>
       <div class="person-degree">2025级硕士研究生</div>
