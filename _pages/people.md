@@ -13,7 +13,9 @@ author_profile: true
 
 <div class="people-grid">
   <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <a class="person-photo-link" href="{{ "/images/people/kangxuejing.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
+    </a>
     <div class="person-info">
       <div class="person-name">康学净</div>
       <div class="person-degree">副教授</div>
