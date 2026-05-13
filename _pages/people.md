@@ -103,7 +103,7 @@ author_profile: true
   </div>
 
   <div class="person-card">
-        <a class="person-photo-link" href="{{ "/images/people/gengxuke.jpg" | relative_url }}" target="_blank" rel="noopener">
+    <a class="person-photo-link" href="{{ "/images/people/gengxuke.jpg" | relative_url }}" target="_blank" rel="noopener">
       <img class="person-photo" src="{{ "/images/people/gengxuke.jpg" | relative_url }}" alt="耿许可">
     </a>
     <div class="person-info">
@@ -117,7 +117,7 @@ author_profile: true
 
 <div class="people-grid">
   <div class="person-card">
-        <a class="person-photo-link" href="{{ "/images/people/wangzhe.jpg" | relative_url }}" target="_blank" rel="noopener">
+    <a class="person-photo-link" href="{{ "/images/people/wangzhe.jpg" | relative_url }}" target="_blank" rel="noopener">
       <img class="person-photo" src="{{ "/images/people/wangzhe.jpg" | relative_url }}" alt="王者">
     </a>
     <div class="person-info">
@@ -127,7 +127,9 @@ author_profile: true
   </div>
 
   <div class="person-card">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <a class="person-photo-link" href="{{ "/images/people/wangmeiao.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/wangmeiao.jpg" | relative_url }}" alt="王美奥">
+    </a>
     <div class="person-info">
       <div class="person-name">王美奥</div>
       <div class="person-degree">2023级硕士研究生</div>
