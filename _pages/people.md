@@ -81,8 +81,8 @@ author_profile: true
   </div>
 
   <div class="person-card">
-    <a class="person-photo-link" href="{{ "/images/people/zhangyx.jpg" | relative_url }}" target="_blank" rel="noopener">
-      <img class="person-photo" src="{{ "/images/people/zhangyx.jpg" | relative_url }}" alt="张宇轩">
+    <a class="person-photo-link" href="{{ "/images/people/zhangyx.png" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/zhangyx.png" | relative_url }}" alt="张宇轩">
     </a>
     <div class="person-info">
       <div class="person-name">张宇轩</div>
