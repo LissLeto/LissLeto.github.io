@@ -14,7 +14,7 @@ author_profile: true
 <div class="people-grid">
   <div class="person-card">
     <a class="person-photo-link" href="{{ "/images/people/kangxuejing.jpg" | relative_url }}" target="_blank" rel="noopener">
-      <img class="person-photo" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
+      <img class="person-photo person-photo-landscape" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
     </a>
     <div class="person-info">
       <div class="person-name">康学净</div>
