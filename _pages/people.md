@@ -17,7 +17,7 @@ author_profile: true
       <img class="person-photo person-photo-landscape" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
     </a>
     <div class="person-info">
-      <div class="person-name">康学净(https://teacher.bupt.edu.cn/kangxuejing)</div>
+      <div class="person-name"><a href="https://teacher.bupt.edu.cn/kangxuejing" target="_blank" rel="noopener">康学净</a></div>
       <div class="person-degree">副教授</div>
     </div>
   </div>
@@ -201,7 +201,7 @@ author_profile: true
       <img class="person-photo" src="{{ "/images/people/lichunxiao.png" | relative_url }}" alt="李春晓">
     </a>
     <div class="person-info">
-      <div class="person-name">李春晓</div>
+      <div class="person-name"><a href="https://ai.henu.edu.cn/info/1046/13592.htm" target="_blank" rel="noopener">李春晓</a></div>
       <div class="person-degree">2019级博士研究生</div>
     </div>
   </div>
