@@ -17,7 +17,7 @@ author_profile: true
       <img class="person-photo person-photo-landscape" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
     </a>
     <div class="person-info">
-      <div class="person-name">康学净</div>
+      <div class="person-name">康学净(https://teacher.bupt.edu.cn/kangxuejing)</div>
       <div class="person-degree">副教授</div>
     </div>
   </div>
