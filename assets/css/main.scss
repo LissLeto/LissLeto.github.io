@@ -123,7 +123,7 @@ h1:before, .anchor:before {
 
 .people-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
     gap: 1.5rem;
     margin: 1.15rem 0 1.75rem;
 }
@@ -141,16 +141,17 @@ h1:before, .anchor:before {
 }
 
 .person-photo {
-    width: 132px;
-    height: 168px;
+    width: 160px;
+    height: 204px;
     border-radius: 4px;
     object-fit: cover;
+    image-rendering: auto;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
 }
 
 .person-photo-landscape {
-    width: 168px;
-    height: 126px;
+    width: 204px;
+    height: 153px;
 }
 
 .person-photo-placeholder {
