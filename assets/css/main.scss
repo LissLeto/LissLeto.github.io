@@ -135,6 +135,10 @@ h1:before, .anchor:before {
     text-align: center;
 }
 
+.person-card[id] {
+    scroll-margin-top: 6rem;
+}
+
 .person-photo-link {
     display: inline-block;
     line-height: 0;

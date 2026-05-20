@@ -22,7 +22,7 @@ author_profile: true
 
 [RetinexMCNet: A Memory Controller Dominated Network for Low-Light Video Enhancement Based on Retinex](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_RetinexMCNet_A_Memory_Controller_Dominated_Network_for_Low-Light_Video_Enhancement_ICCV_2025_paper.html)
 
-**Meiao Wang**, ***Xuejing Kang***\*, Yaxi Lu, Jie Xu
+**[Meiao Wang]({{ "/people/#wang-meiao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Yaxi Lu, Jie Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -40,7 +40,7 @@ author_profile: true
 
 [HDR-NFlow: High dynamic range imaging with normalizing flow](https://www.sciencedirect.com/science/article/pii/S0925231225011841?via%3Dihub)
 
-**Shuaikang Shang**, ***Xuejing Kang***\*, Anlong Ming
+**Shuaikang Shang**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
   </div>
 </div>
@@ -56,7 +56,7 @@ author_profile: true
 
 [Thinking Temporal Automatic White Balance: Datasets, Models and Benchmarks](https://dl.acm.org/doi/10.1145/3664647.3681410)
 
-**Chunxiao Li**, Shuyang Wang, Xuejing Kang, ***Anlong Ming***\*
+**[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, Shuyang Wang, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
 
   </div>
 </div>
@@ -72,7 +72,7 @@ author_profile: true
 
 [Vine Spread for Superpixel Segmentation](https://ieeexplore.ieee.org/document/10015675)
 
-**Pei Zhou**, ***Xuejing Kang***\*, Anlong Ming
+**[Pei Zhou]({{ "/people/#zhou-pei" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
   </div>
 </div>
@@ -88,7 +88,7 @@ author_profile: true
 
 [SWBNet: A Stable White Balance Network for sRGB Images](https://ojs.aaai.org/index.php/AAAI/article/view/25211)
 
-**Chunxiao Li**, Xuejing Kang, Zhifeng Zhang, ***Anlong Ming***\*
+**[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), [Zhifeng Zhang]({{ "/people/#zhang-zhifeng" | relative_url }}), ***Anlong Ming***\*
 
   </div>
 </div>
@@ -104,7 +104,7 @@ author_profile: true
 
 [ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation](https://www.ijcai.org/proceedings/2023/75)
 
-**Chenghao Dong**, ***Xuejing Kang***\*, Anlong Ming
+**[Chenghao Dong]({{ "/people/#dong-chenghao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
   </div>
 </div>
@@ -120,7 +120,7 @@ author_profile: true
 
 [WBFlow: Few-shot white balance for sRGB images via reversible neural flows](https://www.ijcai.org/proceedings/2023/114)
 
-**Chunxiao Li**, Xuejing Kang, ***Anlong Ming***\*
+**[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
 
   </div>
 </div>
@@ -136,7 +136,7 @@ author_profile: true
 
 [Explored Normalized Cut With Random Walk Refining Term for Image Segmentation](https://ieeexplore.ieee.org/document/9745758)
 
-**Lei Zhu**, ***Xuejing Kang***\*,Lizhu Ye, Anlong Ming
+**Lei Zhu**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Lizhu Ye, Anlong Ming
 
   </div>
 </div>
@@ -152,7 +152,7 @@ author_profile: true
 
 [Transfer learning for color constancy via statistic perspective](https://ojs.aaai.org/index.php/AAAI/article/view/20135)
 
-**Yuxiang Tang**, Xuejing Kang, Chunxiao Li, Zhaowen Lin, ***Anlong Ming***\*
+**Yuxiang Tang**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), [Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }}), Zhaowen Lin, ***Anlong Ming***\*
 
   </div>
 </div>
@@ -168,7 +168,7 @@ author_profile: true
 
 [Domain Adversarial Learning for Color Constancy](https://www.ijcai.org/proceedings/2022/236)
 
-**Zhifeng Zhang**, Xuejing Kang, ***Anlong Ming***\*
+**[Zhifeng Zhang]({{ "/people/#zhang-zhifeng" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
 
   </div>
 </div>
@@ -184,7 +184,7 @@ author_profile: true
 
 [HDNet: Hybrid distance network for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0925231221004185?via%3Dihub)
 
-**Chunpeng Li**, ***Xuejing Kang***\*, Lei Zhu, Lizhu Ye, Panhe Feng, Anlong Ming
+**Chunpeng Li**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Lei Zhu, Lizhu Ye, Panhe Feng, Anlong Ming
 
   </div>
 </div>
@@ -200,7 +200,7 @@ author_profile: true
 
 [MT-ORL: Multi-task occlusion relationship learning](https://ieeexplore.ieee.org/document/9710704)
 
-**Panhe Feng**, Qi She, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, ***Xuejing Kang***\*, Anlong Ming
+**Panhe Feng**, Qi She, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
   </div>
 </div>
@@ -217,7 +217,7 @@ author_profile: true
 
 [Dynamic Random Walk for Superpixel Segmentation](https://ieeexplore.ieee.org/document/8967213)
 
-**Xuejing Kang**,  Lei Zhu, ***Anlong Ming***\*
+**[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})**, Lei Zhu, ***Anlong Ming***\*
 
   </div>
 </div>

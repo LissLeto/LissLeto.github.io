@@ -12,7 +12,7 @@ author_profile: true
 ## Faculty
 
 <div class="people-grid">
-  <div class="person-card">
+  <div class="person-card" id="kang-xuejing">
     <a class="person-photo-link" href="{{ "/images/people/kangxuejing.jpg" | relative_url }}" target="_blank" rel="noopener">
       <img class="person-photo person-photo-landscape" src="{{ "/images/people/kangxuejing.jpg" | relative_url }}" alt="康学净">
     </a>
@@ -126,7 +126,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="person-card">
+  <div class="person-card" id="wang-meiao">
     <a class="person-photo-link" href="{{ "/images/people/wangmeiao.jpg" | relative_url }}" target="_blank" rel="noopener">
       <img class="person-photo" src="{{ "/images/people/wangmeiao.jpg" | relative_url }}" alt="王美奥">
     </a>
@@ -156,7 +156,7 @@ author_profile: true
 #### 2021级
 
 <div class="people-grid">
-  <div class="person-card">
+  <div class="person-card" id="dong-chenghao">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
       <div class="person-name">董成豪</div>
@@ -176,7 +176,7 @@ author_profile: true
 #### 2020级
 
 <div class="people-grid">
-  <div class="person-card">
+  <div class="person-card" id="zhou-pei">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
       <div class="person-name">周沛</div>
@@ -184,7 +184,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="person-card">
+  <div class="person-card" id="zhang-zhifeng">
     <div class="person-photo person-photo-placeholder">暂无照片</div>
     <div class="person-info">
       <div class="person-name">张志峰</div>
@@ -196,7 +196,7 @@ author_profile: true
 #### 2019级
 
 <div class="people-grid">
-  <div class="person-card">
+  <div class="person-card" id="li-chunxiao">
     <a class="person-photo-link" href="{{ "/images/people/lichunxiao.png" | relative_url }}" target="_blank" rel="noopener">
       <img class="person-photo" src="{{ "/images/people/lichunxiao.png" | relative_url }}" alt="李春晓">
     </a>
