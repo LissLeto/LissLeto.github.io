@@ -221,6 +221,18 @@ author_profile: true
       <div class="person-degree">2018级硕士研究生</div>
     </div>
   </div>
+
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/lichunpeng.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/lichunpeng.jpg" | relative_url }}" alt="李春鹏">
+    </a>
+    <div class="person-info">
+      <div class="person-name">李春鹏</div>
+      <div class="person-degree">2018级硕士研究生</div>
+    </div>
+  </div>
+
+
 </div>
 
 #### 2017级
@@ -237,4 +249,15 @@ author_profile: true
       <div class="person-degree">2016级硕士研究生</div>
     </div>
   </div>
+
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/duanpeiqi.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/duanpeiqi.jpg" | relative_url }}" alt="段沛奇">
+    </a>
+    <div class="person-info">
+      <div class="person-name">段沛奇</div>
+      <div class="person-degree">2016级硕士研究生</div>
+    </div>
+  </div>
+
 </div>
