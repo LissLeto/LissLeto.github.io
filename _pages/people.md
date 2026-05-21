@@ -232,6 +232,15 @@ author_profile: true
     </div>
   </div>
 
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/fengpanhe.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/fengpanhe.jpg" | relative_url }}" alt="冯盼贺">
+    </a>
+    <div class="person-info">
+      <div class="person-name">冯盼贺</div>
+      <div class="person-degree">2018级硕士研究生</div>
+    </div>
+  </div>
 
 </div>
 
