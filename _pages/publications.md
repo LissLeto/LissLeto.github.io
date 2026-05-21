@@ -123,7 +123,7 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>The white balance methods for sRGB images (sRGB-WB) aim to directly remove their color temperature shifts. Despite achieving promising white balance (WB) performance, the existing methods suffer from WB instability, i.e., their results are inconsistent for images with different color temperatures. We propose a stable white balance network (SWBNet) to alleviate this problem. It learns the color temperature-insensitive features to generate white-balanced images, resulting in consistent WB results. Specifically, the color temperatureinsensitive features are learned by implicitly suppressing lowfrequency information sensitive to color temperatures. Then, a color temperature contrastive loss is introduced to facilitate the most information shared among features of the same scene and different color temperatures. This way, features from the same scene are more insensitive to color temperatures regardless of the inputs. We also present a color temperature sensitivity-oriented transformer that globally perceives multiple color temperature shifts within an image and corrects them by different weights. It helps to improve the accuracy of stabilized SWBNet, especially for multiillumination sRGB images. Experiments indicate that our SWBNet achieves stable and remarkable WB performance.</p>
   </details>
   <span class="paper-code-link paper-code-link-disabled" title="Code link to be added">code</span>
 </div>
@@ -147,7 +147,7 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>The performance of nighttime semantic segmentation has been significantly improved thanks to recent unsupervised methods. However, these methods still suffer from complex domain gaps, i.e., the challenging illumination gap and the inherent dataset gap. In this paper, we propose the illumination-coupled domain adaptation framework(ICDA) to effectively avoid the illumination gap and mitigate the dataset gap by coupling daytime and nighttime images as a whole with semantic relevance. Specifically, we first design a new composite enhancement method(CEM) that considers not only illumination but also spatial consistency to construct the source and target domain pairs, which provides the basic adaptation unit for our ICDA. Next, to avoid the illumination gap, we devise the Deformable Attention Relevance(DAR) module to capture the semantic relevance inside each domain pair, which can couple the daytime and nighttime images at the feature level and adaptively guide the predictions of nighttime images. Besides, to mitigate the dataset gap and acquire domain-invariant semantic relevance, we propose the Prototype-based Class Alignment(PCA) module, which improves the usage of category information and performs fine-grained alignment. Extensive experiments show that our method reduces the complex domain gaps and achieves state-of-the-art performance for nighttime semantic segmentation. Our code is available at https://github.com/chenghaoDong666/ICDA.</p>
   </details>
   <a class="paper-code-link" href="https://github.com/chenghaoDong666/ICDA" target="_blank" rel="noopener">code</a>
 </div>
@@ -171,7 +171,7 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>The sRGB white balance methods aim to correct the nonlinear color cast of sRGB images without accessing raw values. Although existing methods have achieved increasingly better results, their generalization to sRGB images from multiple cameras is still under explored. In this paper, we propose the network named WBFlow that not only performs superior white balance for sRGB images but also generalizes well to multiple cameras. Specifically, we take advantage of neural flow to ensure the reversibility of WBFlow, which enables lossless rendering of color cast sRGB images back to pseudo raw features for linear white balancing and thus achieves superior performance. Furthermore, inspired by camera transformation approaches, we have designed a camera transformation (CT) in pseudo raw feature space to generalize WBFlow for different cameras via few shot learning. By utilizing a few sRGB images from an untrained camera, our WBFlow can perform well on this camera by learning the camera specific parameters of CT. Extensive experiments show that WBFlow achieves superior camera generalization and accuracy on three public datasets as well as our rendered multiple camera sRGB dataset. Our code is available at https://github.com/ChunxiaoLe/WBFlow.</p>
   </details>
   <a class="paper-code-link" href="https://github.com/ChunxiaoLe/WBFlow" target="_blank" rel="noopener">code</a>
 </div>
@@ -195,9 +195,9 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>The Normalized Cut (NCut) model is a popular graph-based model for image segmentation. But it suffers from the excessive normalization problem and weakens the small object and twig segmentation. In this paper, we propose an Explored Normalized Cut (ENCut) model that establishes a balance graph model by adopting a meaningful-loop and a k-step random walk, which reduces the energy of small salient region, so as to enhance the small object segmentation. To improve the twig segmentation, our ENCut model is further enhanced by a new Random Walk Refining Term (RWRT) that adds local attention to our model with the help of an un-supervising random walk. Finally, a move-making based strategy is developed to efficiently solve the ENCut model with RWRT. Experiments on three standard datasets indicate that our model can achieve state-of-the-art results among the NCut-based segmentation models.</p>
   </details>
-  <span class="paper-code-link paper-code-link-disabled" title="Code link to be added">code</span>
+  <a class="paper-code-link" href="https://github.com/zh460045050/ENCut_RWRT" target="_blank" rel="noopener">code</a>
 </div>
 
   </div>
@@ -219,9 +219,9 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>Color Constancy aims to correct image color casts caused by scene illumination. Recently, although the deep learning approaches have remarkably improved on single-camera data, these models still suffer from the seriously insufficient data problem, resulting in shallow model capacity and degradation in multi-camera settings. In this paper, to alleviate this problem, we present a Transfer Learning Color Constancy (TLCC) method that leverages cross-camera RAW data and massive unlabeled sRGB data to support training. Specifically, TLCC consists of the Statistic Estimation Scheme (SE-Scheme) and Color-Guided Adaption Branch (CGA-Branch). SE-Scheme builds a statistic perspective to map the camera-related illumination labels into camera-agnostic form and produce pseudo labels for sRGB data, which greatly expands data for joint training. Then, CGA-Branch further promotes efficient transfer learning from sRGB to RAW data by extracting color information to regularize the backbone's features adaptively. Experimental results show the TLCC has overcome the data limitation and model degradation, outperforming the state-of-the-art performance on popular benchmarks. Moreover, the experiments also prove the TLCC is capable of learning new scenes information from sRGB data to improve accuracy on the RAW images with similar scenes.</p>
   </details>
-  <span class="paper-code-link paper-code-link-disabled" title="Code link to be added">code</span>
+  <a class="paper-code-link" href="https://github.com/YuxiangTang/TLCC" target="_blank" rel="noopener">code</a>
 </div>
 
   </div>
@@ -243,7 +243,7 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>Color Constancy aims to eliminate the color cast of RAW images caused by non-neutral illuminants. Though contemporary approaches based on convolutional neural networks significantly improve illuminant estimation, they suffer from the seriously insufficient data problem. To solve this problem by effectively utilizing multi-domain data, we propose the Domain Adversarial Learning Color Constancy (DALCC) which consists of the Domain Adversarial Learning Branch (DALB) and the Feature Reweighting Module (FRM). In DALB, the Camera Domain Classifier and the feature extractor compete against each other in an adversarial way to encourage the emergence of domain-invariant features. At the same time, the Illuminant Transformation Module performs color space conversion to solve the inconsistent color space problem caused by those domain-invariant features. They collaboratively avoid model degradation of multi-device training caused by the domain discrepancy of feature distribution, which enables our DALCC to benefit from multi-domain data. Besides, to better utilize multi-domain data, we propose the FRM that reweights the feature map to suppress Non-Primary Illuminant regions, which reduces the influence of misleading illuminant information. Experiments show that the proposed DALCC can more effectively take advantage of multi-domain data and thus achieve state-of-the-art performance on commonly used benchmark datasets.</p>
   </details>
   <a class="paper-code-link" href="https://github.com/Zhi-Feng-Zhang/DALCC" target="_blank" rel="noopener">code</a>
 </div>
@@ -267,9 +267,9 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>Semantic segmentation is currently solved as a pixel-wise labeling task, which predicts the label of each pixel based on its features. However, current methods isolate the relations of points in a feature map and cause the discontinuous segmentation results. In order to solve this problem, we propose a Hybrid Distance Network to measure the distance from two aspects. First, the Hybrid Distance Relation is proposed to model the relations between a point and its context regions to capture contexts in a feature map by an elegant combination of positional distance and high-dimension feature distance. Then, a Location Aware Attention module is proposed to efficiently sample the contexts by the positional distance and produces sparse Hybrid Distance Relations. It synthesizes the different contexts of each point and generates position-wise attention value to compact object-level representation. During the training step, High-dimension Feature Distance loss is also presented as an auxiliary loss to compact category-level representation in feature space. Experiments show that the proposed HDNet achieves state-of-the-art performance with interpretability and efficiency on three challenging semantic segmentation benchmarks: Pascal Context, ADE20K, and COCO Stuff 10 K.</p>
   </details>
-  <span class="paper-code-link paper-code-link-disabled" title="Code link to be added">code</span>
+  <a class="paper-code-link" href="https://github.com/Anstarc/HDNet" target="_blank" rel="noopener">code</a>
 </div>
 
   </div>
@@ -291,7 +291,7 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>Retrieving occlusion relation among objects in a single image is challenging due to sparsity of boundaries in image. We observe two key issues in existing works: firstly, lack of an architecture which can exploit the limited amount of coupling in the decoder stage between the two subtasks, namely occlusion boundary extraction and occlusion orientation prediction, and secondly, improper representation of occlusion orientation. In this paper, we propose a novel architecture called Occlusion-shared and Path-separated Network (OPNet), which solves the first issue by exploiting rich occlusion cues in shared high-level features and structured spatial information in task-specific low-level features. We then design a simple but effective orthogonal occlusion representation (OOR) to tackle the second issue. Our method surpasses the state-of-the-art methods by 6.1%/8.3% Boundary-AP and 6.5%/10% Orientation-AP on standard PIOD/BSDS ownership datasets. Code is available at https://github.com/fengpanhe/MT-ORL.</p>
   </details>
   <a class="paper-code-link" href="https://github.com/fengpanhe/MT-ORL" target="_blank" rel="noopener">code</a>
 </div>
@@ -316,9 +316,9 @@ author_profile: true
 <div class="paper-actions">
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>Abstract to be added.</p>
+    <p>In this paper, we propose a novel random walk model, called Dynamic Random Walk (DRW), which adds a new type of dynamic node to the original RW model and reduces redundant calculation by limiting the walk range. To solve the seed-lacking problem of the proposed DRW, we redefine the energy function of the original RW and use the first arrival probability among each node pair to avoid the interference for each partition. Relaxation of our DRW is performed with the help of a greedy strategy and the Weighted Random Walk Entropy(WRWE) that uses the gradient feature to approximate the stationary distribution. The proposed DRW not only can enhance the boundary adherence but also can run with linear time complexity. To extend our DRW for superpixel segmentation, a seed initialization strategy is proposed. It can evenly distribute seeds in both 2D and 3D space and generate superpixels in only one iteration. The experimental results demonstrate that our DRW is faster than existing RW models and better than the state-of-the-art superpixel segmentation algorithms with respect to both efficiency and segmentation effects.</p>
   </details>
-  <span class="paper-code-link paper-code-link-disabled" title="Code link to be added">code</span>
+  <a class="paper-code-link" href="https://github.com/zh460045050/DRW" target="_blank" rel="noopener">code</a>
 </div>
 
   </div>
