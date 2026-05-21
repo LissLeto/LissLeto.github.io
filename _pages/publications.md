@@ -24,7 +24,7 @@ author_profile: true
 
 **[Meiao Wang]({{ "/people/#wang-meiao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Yaxi Lu, Jie Xu
 
-[**code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**code**](https://github.com/Meiao-W/RetinexMCNet)
 
 <details class="paper-abstract">
   <summary>Abstract</summary>
@@ -49,7 +49,7 @@ author_profile: true
 
 <details class="paper-abstract">
   <summary>Abstract</summary>
-  <p>Abstract to be added.</p>
+  <p>High Dynamic Range (HDR) imaging aims to generate a high-quality HDR image by fusing multi-exposure Low Dynamic Range (LDR) images. When input LDR images have large object motion and severe saturation, previous methods suffer from ghosting artifacts, which results in unpleasant HDR images and hinders real-world applications. To address this critical issue to reconstruct high-quality HDR images, we propose a novel HDR imaging framework based on the normalizing flow (called HDR-NFlow), which regards HDR imaging as a conditional generation task and consists of a conditional encoder and an invertible flow network. Specifically, the conditional encoder utilizes the proposed Composite Attention Merge Module (CAMM) to capture long-range context and fusion dependency of multi-exposed frames to align the large object motions and an Asymmetric Selective Kernel Detail (ASKD) module to capture texture information via locally stripy extraction. With the extracted features as reasonable conditions, the invertible flow network hallucinates realistic content for saturated regions and generates an HDR image by realizing the conversion of Gaussian distribution to HDR image distribution. We conduct extensive experiments on commonly used benchmark datasets to demonstrate that our method achieves state-of-the-art performance both quantitatively and qualitatively.</p>
 </details>
 
   </div>
@@ -70,7 +70,7 @@ author_profile: true
 
 <details class="paper-abstract">
   <summary>Abstract</summary>
-  <p>Abstract to be added.</p>
+  <p>Temporal Automatic White Balance (TAWB) corrects the color cast within each frame, while ensuring consistent illumination across consecutive frames. Unlike conventional AWB, there has been limited research conducted on TAWB for an extended period. However, the growing popularity of short-form videos has increased focus on video color experiences. To further advance research on TAWB, we aim to address the bottlenecks associated with datasets, models, and benchmarks. 1) Dataset challenge: Currently, only one TAWB dataset (BCC), captured with a single camera, is available. It lacks temporal continuity due to challenges in capturing realistic illuminations and dynamic raw data. In response, we meticulously designed an acquisition strategy based on the actual distribution pattern of illuminations and created a comprehensive TAWB dataset named CTA comprising 6 cameras that offer 12K continuous illuminations. Furthermore, we employed video frame interpolation techniques, extending the captured static raw data into dynamic form and ensuring continuous illumination. 2) Model challenge: Among the two prevailing TAWB methods, both rely on LSTM. However, the fixed gating mechanism of LSTM often fails to adapt to varying content or illuminations, resulting in unstable illumination estimation. In response, we propose CTANet, which integrates cross-frame attention and RepViT for self-adjustment to content and illumination variations. Additionally, the mobile-friendly design of RepViT enhances the portability of CTANet. 3) Benchmark challenge: Currently, there is no benchmark of TAWB methods on illumination and camera types to date. Addressing this, a benchmark has been proposed by conducting a comparative analysis of 8 cutting-edge AWB and TAWB methods with CTANet across 3 typical illumination scenes and 7 cameras from two representative datasets. The dataset and code are available in https://github.com/ChunxiaoLe/CTA-Dataset.</p>
 </details>
 
   </div>
