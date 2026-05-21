@@ -185,7 +185,9 @@ author_profile: true
   </div>
 
   <div class="person-card" id="zhang-zhifeng">
-    <div class="person-photo person-photo-placeholder">暂无照片</div>
+    <a class="person-photo-link" href="{{ "/images/people/zhangzhifeng.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/zhangzhifeng.jpg" | relative_url }}" alt="张志峰">
+    </a>
     <div class="person-info">
       <div class="person-name">张志峰</div>
       <div class="person-degree">2020级硕士研究生</div>
@@ -203,6 +205,36 @@ author_profile: true
     <div class="person-info">
       <div class="person-name"><a href="https://ai.henu.edu.cn/info/1046/13592.htm" target="_blank" rel="noopener">李春晓</a></div>
       <div class="person-degree">2019级博士研究生</div>
+    </div>
+  </div>
+</div>
+
+#### 2018级
+
+<div class="people-grid">
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/zhangbin.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/zhangbin.jpg" | relative_url }}" alt="张斌">
+    </a>
+    <div class="person-info">
+      <div class="person-name">张斌</div>
+      <div class="person-degree">2018级硕士研究生</div>
+    </div>
+  </div>
+</div>
+
+#### 2017级
+
+#### 2016级
+
+<div class="people-grid">
+  <div class="person-card">
+    <a class="person-photo-link" href="{{ "/images/people/yuaiwei.jpg" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/yuaiwei.jpg" | relative_url }}" alt="于瑷玮">
+    </a>
+    <div class="person-info">
+      <div class="person-name">于瑷玮</div>
+      <div class="person-degree">2016级硕士研究生</div>
     </div>
   </div>
 </div>
