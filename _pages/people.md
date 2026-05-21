@@ -251,8 +251,8 @@ author_profile: true
   </div>
 
   <div class="person-card">
-    <a class="person-photo-link" href="{{ "/images/people/duanpeiqi.jpg" | relative_url }}" target="_blank" rel="noopener">
-      <img class="person-photo" src="{{ "/images/people/duanpeiqi.jpg" | relative_url }}" alt="段沛奇">
+    <a class="person-photo-link" href="{{ "/images/people/duanpeiqi.png" | relative_url }}" target="_blank" rel="noopener">
+      <img class="person-photo" src="{{ "/images/people/duanpeiqi.png" | relative_url }}" alt="段沛奇">
     </a>
     <div class="person-info">
       <div class="person-name">段沛奇</div>
