@@ -122,13 +122,12 @@
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
-    padding: 0.28rem 0.65rem;
-    border: 1px solid #d9d9d9;
-    border-radius: 999px;
-    background: #fff;
+    padding: 0;
+    border: 0;
+    background: transparent;
     color: #224b8d;
     cursor: pointer;
-    font-size: 0.82rem;
+    font-size: 0.86rem;
     font-weight: 600;
     line-height: 1.2;
     user-select: none;
@@ -155,21 +154,18 @@
 .paper-code-link {
     display: inline-flex;
     align-items: center;
-    padding: 0.28rem 0.65rem;
-    border: 1px solid #d9d9d9;
-    border-radius: 999px;
-    background: #fff;
+    padding: 0;
+    border: 0;
+    background: transparent;
     color: #224b8d;
-    font-size: 0.82rem;
+    font-size: 0.86rem;
     font-weight: 600;
     line-height: 1.2;
     text-decoration: none;
 }
 
 .paper-code-link:hover {
-    border-color: #b7c2d0;
-    background: #f8fafc;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .paper-abstract p {
