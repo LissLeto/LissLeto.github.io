@@ -23,14 +23,13 @@ author_profile: true
 [RetinexMCNet: A Memory Controller Dominated Network for Low-Light Video Enhancement Based on Retinex](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_RetinexMCNet_A_Memory_Controller_Dominated_Network_for_Low-Light_Video_Enhancement_ICCV_2025_paper.html)
 **[Meiao Wang]({{ "/people/#wang-meiao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Yaxi Lu, Jie Xu
 
-[**code**](https://github.com/Meiao-W/RetinexMCNet)
-
-<details class="paper-abstract">
-  <summary>Abstract</summary>
-  <p>Low-light video enhancement (LLVE) aims to restore videos degraded by insufficient illumination.While existing methods have demonstrated their effectiveness, they often face challenges with intra-frame noise, overexposure, and inter-frame inconsistency since they fail to exploit the temporal continuity across frames.Inspired by the progressive video understanding mechanism of human, we propose a novel end-to-end two-stage memory controller (MC) dominated network (RetinexMCNet). Specifically, we first define the overall optimization objective for Retinex-based LLVE, and accordingly design our framework.In stage one, aided by a dual-perspective Lightness-Texture Stability (LTS) loss, we perform per-frame enhancement without the MC, which uses a channel-aware Illumination Adjustment Module (IAM) and an illumination-guided Reflectance Denoising Module (RDM) based on Retinex theory to mitigate intra-frame noise and overexposure.In stage two, we activate the MC to simulate human temporal memory and integrate it with high-quality single frames for global consistency.Extensive qualitative and quantitative experiments on common low-light sRGB datasets demonstrate our method significantly outperforms state-of-the-art approaches.</p>
-</details> 
-
-[**code**](https://github.com/Meiao-W/RetinexMCNet)
+<div class="paper-actions">
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Low-light video enhancement (LLVE) aims to restore videos degraded by insufficient illumination.While existing methods have demonstrated their effectiveness, they often face challenges with intra-frame noise, overexposure, and inter-frame inconsistency since they fail to exploit the temporal continuity across frames.Inspired by the progressive video understanding mechanism of human, we propose a novel end-to-end two-stage memory controller (MC) dominated network (RetinexMCNet). Specifically, we first define the overall optimization objective for Retinex-based LLVE, and accordingly design our framework.In stage one, aided by a dual-perspective Lightness-Texture Stability (LTS) loss, we perform per-frame enhancement without the MC, which uses a channel-aware Illumination Adjustment Module (IAM) and an illumination-guided Reflectance Denoising Module (RDM) based on Retinex theory to mitigate intra-frame noise and overexposure.In stage two, we activate the MC to simulate human temporal memory and integrate it with high-quality single frames for global consistency.Extensive qualitative and quantitative experiments on common low-light sRGB datasets demonstrate our method significantly outperforms state-of-the-art approaches.</p>
+  </details>
+  <a class="paper-code-link" href="https://github.com/Meiao-W/RetinexMCNet" target="_blank" rel="noopener">code</a>
+</div>
 
   </div>
 </div>
