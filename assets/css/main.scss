@@ -100,6 +100,40 @@
 
 }
 
+.paper-abstract {
+    margin-top: 1rem;
+}
+
+.paper-abstract summary {
+    display: inline-block;
+    padding: 0.45rem 0.85rem;
+    border: 1px solid #d8dce2;
+    border-radius: 4px;
+    background: #f7f7f7;
+    color: #224b8d;
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1.2;
+    user-select: none;
+}
+
+.paper-abstract summary::-webkit-details-marker {
+    display: none;
+}
+
+.paper-abstract[open] summary {
+    margin-bottom: 0.75rem;
+}
+
+.paper-abstract p {
+    margin: 0;
+    padding: 0.9rem 1rem;
+    border-left: 3px solid #224b8d;
+    background: #fafafa;
+    color: #444;
+    line-height: 1.6;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

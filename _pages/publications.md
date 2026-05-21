@@ -24,7 +24,12 @@ author_profile: true
 
 **[Meiao Wang]({{ "/people/#wang-meiao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Yaxi Lu, Jie Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Low-light video enhancement (LLVE) aims to restore videos degraded by insufficient illumination.While existing methods have demonstrated their effectiveness, they often face challenges with intra-frame noise, overexposure, and inter-frame inconsistency since they fail to exploit the temporal continuity across frames.Inspired by the progressive video understanding mechanism of human, we propose a novel end-to-end two-stage memory controller (MC) dominated network (RetinexMCNet). Specifically, we first define the overall optimization objective for Retinex-based LLVE, and accordingly design our framework.In stage one, aided by a dual-perspective Lightness-Texture Stability (LTS) loss, we perform per-frame enhancement without the MC, which uses a channel-aware Illumination Adjustment Module (IAM) and an illumination-guided Reflectance Denoising Module (RDM) based on Retinex theory to mitigate intra-frame noise and overexposure.In stage two, we activate the MC to simulate human temporal memory and integrate it with high-quality single frames for global consistency.Extensive qualitative and quantitative experiments on common low-light sRGB datasets demonstrate our method significantly outperforms state-of-the-art approaches.</p>
+</details>
 
   </div>
 </div>
@@ -42,6 +47,11 @@ author_profile: true
 
 **Shuaikang Shang**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -57,6 +67,11 @@ author_profile: true
 [Thinking Temporal Automatic White Balance: Datasets, Models and Benchmarks](https://dl.acm.org/doi/10.1145/3664647.3681410)
 
 **[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, Shuyang Wang, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
@@ -74,6 +89,11 @@ author_profile: true
 
 **[Pei Zhou]({{ "/people/#zhou-pei" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -89,6 +109,11 @@ author_profile: true
 [SWBNet: A Stable White Balance Network for sRGB Images](https://ojs.aaai.org/index.php/AAAI/article/view/25211)
 
 **[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), [Zhifeng Zhang]({{ "/people/#zhang-zhifeng" | relative_url }}), ***Anlong Ming***\*
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
@@ -106,6 +131,11 @@ author_profile: true
 
 **[Chenghao Dong]({{ "/people/#dong-chenghao" | relative_url }})**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -121,6 +151,11 @@ author_profile: true
 [WBFlow: Few-shot white balance for sRGB images via reversible neural flows](https://www.ijcai.org/proceedings/2023/114)
 
 **[Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
@@ -138,6 +173,11 @@ author_profile: true
 
 **Lei Zhu**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Lizhu Ye, Anlong Ming
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -153,6 +193,11 @@ author_profile: true
 [Transfer learning for color constancy via statistic perspective](https://ojs.aaai.org/index.php/AAAI/article/view/20135)
 
 **Yuxiang Tang**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), [Chunxiao Li]({{ "/people/#li-chunxiao" | relative_url }}), Zhaowen Lin, ***Anlong Ming***\*
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
@@ -170,6 +215,11 @@ author_profile: true
 
 **[Zhifeng Zhang]({{ "/people/#zhang-zhifeng" | relative_url }})**, [Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }}), ***Anlong Ming***\*
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -185,6 +235,11 @@ author_profile: true
 [HDNet: Hybrid distance network for semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0925231221004185?via%3Dihub)
 
 **Chunpeng Li**, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Lei Zhu, Lizhu Ye, Panhe Feng, Anlong Ming
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
@@ -202,6 +257,11 @@ author_profile: true
 
 **Panhe Feng**, Qi She, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, ***[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})***\*, Anlong Ming
 
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
+
   </div>
 </div>
 
@@ -218,6 +278,11 @@ author_profile: true
 [Dynamic Random Walk for Superpixel Segmentation](https://ieeexplore.ieee.org/document/8967213)
 
 **[Xuejing Kang]({{ "/people/#kang-xuejing" | relative_url }})**, Lei Zhu, ***Anlong Ming***\*
+
+<details class="paper-abstract">
+  <summary>Abstract</summary>
+  <p>Abstract to be added.</p>
+</details>
 
   </div>
 </div>
