@@ -40,6 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+@font-face {
+    font-family: "Source Han Serif Web";
+    src: url('{{ "/assets/fonts/SourceHanSerifCN-VF.woff2" | relative_url }}') format("woff2");
+    font-style: normal;
+    font-weight: 200 900;
+    font-display: swap;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
