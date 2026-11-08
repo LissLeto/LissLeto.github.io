@@ -41,6 +41,22 @@
 @import "print";
 
 @font-face {
+    font-family: "Galliard Web";
+    src: url('{{ "/assets/fonts/Galliard-Roman.otf" | relative_url }}') format("opentype");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Galliard Web";
+    src: url('{{ "/assets/fonts/Galliard-Italic.otf" | relative_url }}') format("opentype");
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
     font-family: "Source Han Serif Web";
     src: url('{{ "/assets/fonts/SourceHanSerifCN-VF.woff2" | relative_url }}') format("woff2");
     font-style: normal;
