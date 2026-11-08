@@ -118,6 +118,11 @@
     margin-top: 0;
 }
 
+.paper-abstract summary,
+.paper-code-link {
+    font-family: $sans-serif;
+}
+
 .paper-abstract summary {
     display: inline-flex;
     align-items: center;
